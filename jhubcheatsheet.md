@@ -73,7 +73,7 @@ JupyterHub Tutorial - "Tutorial materials for deploying JupyterHub"
 ### Communication with us
 
 - Mailing lists
-    - [Jupyter]((https://groups.google.com/forum/#!forum/jupyter)
+    - [Jupyter](https://groups.google.com/forum/#!forum/jupyter)
     - [Jupyter in Education]()
     - [JupyterHub in HPC]()
 - [Gitter channel](https://gitter.im/jupyterhub/jupyterhub)
