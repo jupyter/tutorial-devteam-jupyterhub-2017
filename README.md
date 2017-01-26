@@ -1,5 +1,15 @@
 # tutorial-devteam-jupyterhub-2017
+
 Resources for the dev team tutorial on JupyterHub 2017-01-27
+
+The goal of the tutorial is to provide Jupyter developers (especially the day-to-day team)
+with a solid technical overview of the JupyterHub architecture.
+
+## Meeting Logistics
+
+- Date and time: **Friday, January 27, 10:00-11:30 am Pacific Time**
+- Meeting link: https://bluejeans.com/702657302
+- Shortened link to this repo: http://bit.ly/jhubtech
 
 ## JupyterHub Tutorial
 
@@ -14,19 +24,3 @@ Resources for the dev team tutorial on JupyterHub 2017-01-27
 ## Resources
 
 [**Detailed Agenda and Outline**](agenda-annotated.md) *Presenters - please edit this linked document.*
-
-## Meeting Logistics
-
-The JupyterHub team will be providing a technical tutorial of JupyterHub this
-**Friday, January 27, 10:00-11:30 am Pacific Time**.
-
-The goal of the tutorial is to provide Jupyter developers (especially the day-to-day team)
-with a solid technical overview of the JupyterHub architecture. Members of the community
-are welcome to join us online, though please note that, unfortunately, we will have limited seats.
-If you do join us and have questions about deploying JupyterHub as an end user, please ask those
-questions toward the end of the tutorial Discussion + Q & A or (better yet!) on the mailing list.
-We'll record the session and make it available shortly afterwards so that all members of the
-community can view it on demand.
-
-Meeting link: https://bluejeans.com/702657302
-
