@@ -2,7 +2,7 @@
 
 ## JupyterHub Tutorial
 
-- [15 min] Overview and State of JupyterHub (Min)
+- [15 min] Overview and State of [JupyterHub](https://github.com/jupyterhub/jupyterhub) (Min)
 
     - Pre 0.7 release
     - 0.7 overview |
@@ -25,11 +25,11 @@
     - Berkeley: Data8 architecture overview (Yuvi)
 
 
-- [20 min] Looking at highlights of the future 0.8 release (Min)
+- [20 min] Looking toward future release (Min)
 
     - Multiple Services per User
     - Proxy abstraction
-    - HubShare
+    - [HubShare](https://github.com/jupyterhub/hubshare)
 
 
 - [20 min] Discussion and Q&A (All)
