@@ -8,7 +8,9 @@
     - 0.7 overview |
       [changelog](https://jupyterhub.readthedocs.io/en/latest/changelog.html) |
       [announcement](https://groups.google.com/forum/#!topic/jupyter/OHCW6UODQGE)
-    - Services
+    - Services |
+      [Documentation](https://jupyterhub.readthedocs.io/en/latest/services.html) |
+      [Examples in repo](https://github.com/jupyterhub/jupyterhub/tree/master/examples)
 
 
 - [30 min] Teaching with JupyterHub
