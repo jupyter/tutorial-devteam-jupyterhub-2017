@@ -5,7 +5,9 @@
 - [15 min] Overview and State of JupyterHub (Min)
 
     - Pre 0.7 release
-    - 0.7 overview
+    - 0.7 overview |
+      [changelog](https://jupyterhub.readthedocs.io/en/latest/changelog.html) |
+      [announcement](https://groups.google.com/forum/#!topic/jupyter/OHCW6UODQGE)
     - Services
 
 
