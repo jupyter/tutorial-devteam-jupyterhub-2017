@@ -74,7 +74,7 @@ JupyterHub Tutorial - "Tutorial materials for deploying JupyterHub"
 
 - Mailing lists
     - [Jupyter](https://groups.google.com/forum/#!forum/jupyter)
-    - [Jupyter in Education]()
-    - [JupyterHub in HPC]()
+    - [Jupyter in Education](https://groups.google.com/forum/#!forum/jupyter-education)
+    - [Jupyter in HPC](https://groups.google.com/forum/#!forum/jupyter-hpc)
 - [Gitter channel](https://gitter.im/jupyterhub/jupyterhub)
 - [Project Jupyter website](https://jupyter.org)
