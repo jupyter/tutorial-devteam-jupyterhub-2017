@@ -16,7 +16,10 @@
 - [30 min] Teaching with JupyterHub
 
     - nbgrader: Using services and enhancements (Jess)
-
+        - [Repo](https://github.com/jupyter/nbgrader) |
+          [Docs - latest](https://nbgrader.readthedocs.io/en/latest/) |
+          [Docs - stable](https://nbgrader.readthedocs.io/en/stable/)
+        - [Announcement of pre-release v0.4.0](https://groups.google.com/forum/#!searchin/jupyter/nbgrader%7Csort:date/jupyter/u4_EnS4Cr_4/JqHVyQPrFAAJ)
     - Cal Poly: Deploying with Ansible and using JupyterLab (Brian)
 
     - Berkeley: Data8 architecture overview (Yuvi)
