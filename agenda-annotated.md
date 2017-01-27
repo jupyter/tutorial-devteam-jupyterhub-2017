@@ -21,6 +21,7 @@
           [Docs - stable](https://nbgrader.readthedocs.io/en/stable/)
         - [Announcement of pre-release v0.4.0](https://groups.google.com/forum/#!searchin/jupyter/nbgrader%7Csort:date/jupyter/u4_EnS4Cr_4/JqHVyQPrFAAJ)
     - Cal Poly: Deploying with Ansible and using JupyterLab (Brian)
+        - [Repo](https://github.com/jupyterhub/jupyterhub-deploy-teaching)
 
     - Berkeley: Data8 architecture overview (Yuvi)
 
