@@ -9,6 +9,7 @@ with a solid technical overview of the JupyterHub architecture.
 
 - Date and time: **Friday, January 27, 10:00-11:30 am Pacific Time**
 - Meeting link: https://bluejeans.com/702657302
+
 - Shortened link to this repo: http://bit.ly/jhubtech
 
 ## JupyterHub Tutorial
@@ -23,4 +24,4 @@ with a solid technical overview of the JupyterHub architecture.
 
 ## Resources
 
-[**Detailed Agenda and Outline**](agenda-annotated.md) *Presenters - please edit this linked document.*
+[**Detailed Agenda and Outline**](agenda-annotated.md)
