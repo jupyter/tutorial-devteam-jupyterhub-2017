@@ -15,7 +15,7 @@
 
 - [30 min] Teaching with JupyterHub
 
-    - nbgrader: Using services and enhancements (Jess)
+    - [nbgrader](https://github.com/jupyter/nbgrader): Using services and enhancements (Jess)
         - [Repo](https://github.com/jupyter/nbgrader) |
           [Docs - latest](https://nbgrader.readthedocs.io/en/latest/) |
           [Docs - stable](https://nbgrader.readthedocs.io/en/stable/)
