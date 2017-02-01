@@ -2,6 +2,8 @@
 
 Resources for the dev team tutorial on JupyterHub 2017-01-27
 
+[Link to recording on YouTube](https://youtu.be/GegyqGhDYlo)
+
 The goal of the tutorial is to provide Jupyter developers (especially the day-to-day team)
 with a solid technical overview of the JupyterHub architecture.
 
